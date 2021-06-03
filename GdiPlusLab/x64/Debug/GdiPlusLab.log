@@ -1,0 +1,4 @@
+﻿  GdiPlusLab.cpp
+C:\Users\YK-TW\Desktop\GdiPlus\GdiPlusLab\GdiPlusLab.cpp(203,39): warning C4244: аргумент: преобразование "int" в "Gdiplus::REAL", возможна потеря данных
+C:\Users\YK-TW\Desktop\GdiPlus\GdiPlusLab\GdiPlusLab.cpp(203,87): warning C4267: аргумент: преобразование из "size_t" в "INT"; возможна потеря данных
+  GdiPlusLab.vcxproj -> C:\Users\YK-TW\Desktop\GdiPlus\GdiPlusLab\x64\Debug\GdiPlusLab.exe

@@ -1,0 +1,3 @@
+C:\Users\David\Downloads\GdiPlus\GdiPlusLab\x64\Debug\GdiPlusLab.exe
+C:\Users\YK-TW\Desktop\GdiPlus\GdiPlusLab\x64\Debug\GdiPlusLab.exe
+C:\Users\YK-TW\Desktop\GdiPlus\GdiPlusLab\x64\Debug\GdiPlusLab.pdb
